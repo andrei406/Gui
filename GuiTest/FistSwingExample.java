@@ -1,3 +1,4 @@
+package GuiTest;
 import javax.swing.*;
 public class FistSwingExample{
     public static void main(String[] args){
