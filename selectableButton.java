@@ -1,4 +1,3 @@
-package GuiTest;
 import javax.swing.*;
 
 import org.w3c.dom.events.Event;
